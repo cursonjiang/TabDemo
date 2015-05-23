@@ -1,0 +1,2 @@
+include ':ViewPagerTab', ':FragmentTab', ':ViewPagerFragmentTab', ':ViewPagerIndicatorTab'
+include ':viewPagerIndicatorLibrary'
